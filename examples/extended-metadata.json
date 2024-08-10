@@ -1,13 +1,12 @@
 {
-    "verification":"verification-string-here-for-pool-claim",
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "verification":"6185298eaa07e7d343",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": "London, England",
+        "url_png_icon_64x64": "https://github.com/SyntaxStealth/1/blob/main/50kb.png",
+        "url_png_logo": "https://github.com/SyntaxStealth/1/blob/main/50kb.png",
+        "location": "Pennsylvania",
         "social": {
-            "twitter_handle": "cexplorer_io",
-            "telegram_handle": "cexplorer_io",
+            "twitter_handle": "",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -15,19 +14,17 @@
             "github_handle": "",
             "patreon_handle": "",
             "linkedin_handle": "",
-            "ada_handle": "$cexplorer"
+            "ada_handle": "$StealthSyntax"
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "USA"
         },
         "about": {
             "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "server": "...",
             "company": "..."
         }
     }
